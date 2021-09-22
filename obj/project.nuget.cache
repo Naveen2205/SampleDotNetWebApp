@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "dLmE6nwKk2M1GwJO0ohgS1NHoketka2FcASxFcFUP/b7wHSk55q8/yOQ9j5OTu2JF23w614U2HPLOEYZPSBR2w==",
+  "success": true,
+  "projectFilePath": "E:\\2\\coding\\dotnet Community\\Web\\RestApi\\RestApi\\RestApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\com.print.nugetlocallib\\1.0.0\\com.print.nugetlocallib.1.0.0.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\com.print.nugettestlib\\1.0.3\\com.print.nugettestlib.1.0.3.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
